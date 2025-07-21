@@ -1,0 +1,19 @@
+/* .list {
+    border: 2px solid black;
+
+}
+
+#list1{
+    background-color: pink;
+}
+
+#list.id{
+     background-color: salmon;
+} */
+
+.box{
+    height: 100px;
+    background-color: aquamarine;
+    width: 100px;
+
+}
